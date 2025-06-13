@@ -1,11 +1,13 @@
-<h1 align="left">👋 Oi!</h1>
+<h1 align="left">👋 Oi... eu segui o coelho e acabei me transformando em Um!</h1>
 
 <p align="left">
 Desenvolvedor full stack comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com propósito.
 
 Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
 
-Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, verdade e impacto real. 🧠
+Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, verdade e impacto real.
+
+Desde a Infraestrutura, até o Deploy (com segurança), estou atento a todos os "TODO's".
 
 Quer me conhecer melhor? Siga as pegadas.
 </p>
@@ -74,8 +76,8 @@ Quer me conhecer melhor? Siga as pegadas.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=belluccaz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=belluccaz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=therealmatrixbunny&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thematrixbunny&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###

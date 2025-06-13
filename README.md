@@ -1,4 +1,4 @@
-<h1 align="left">👋 Oi... eu segui o coelho e acabei me transformando em Um!</h1>
+<h1 align="left">👋 Oi... eu segui O Coelho e acabei me transformando em Um!</h1>
 
 <p align="left">
 Desenvolvedor full stack comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com propósito.

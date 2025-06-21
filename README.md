@@ -1,7 +1,7 @@
 <h1 align="left">👋 Oi... eu segui O Coelho e acabei me tornando Um!</h1>
 
 <p align="left">
-Desenvolvedor full stack comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com propósito.
+Desenvolvedor, comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com propósito.
 
 Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
 

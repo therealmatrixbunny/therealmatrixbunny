@@ -5,9 +5,9 @@ Desenvolvedor, comprometido com a construção de aplicações eficientes, escal
 
 Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
 
-Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, verdade e impacto real.
+Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, Verdade e impacto real.
 
-Desde a Infraestrutura, até o Deploy (com segurança), estou atento a todos os "TODO's".
+Desde a Infraestrutura, até o Deploy (com segurança), estou atento a todos os "TODO's" do TODO.
 
 Quer me conhecer melhor? Siga as pegadas.
 </p>

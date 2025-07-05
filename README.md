@@ -1,15 +1,13 @@
-<h1 align="left">👋 Oi... eu segui O Coelho e acabei me tornando Um!</h1>
+<h1 align="left"> Vi Veri Veniversum Vivus Virci. </h1>
 
 <p align="left">
 Desenvolvedor, comprometido com a construção de aplicações eficientes, escaláveis e alinhadas com propósito.
 
 Atuo com múltiplas tecnologias e arquiteturas, sempre guiado por boas práticas, visão estratégica e ética no código.
 
-Sistemas, pra mim, precisam funcionar além da lógica: eles devem carregar intenção, Verdade e impacto real.
+Sistemas, precisam funcionar além da lógica: eles devem carregar intenção, Verdade e impacto real.
 
 Desde a Infraestrutura, até o Deploy (com segurança), estou atento a todos os "TODO's" do TODO.
-
-Quer me conhecer melhor? Siga as pegadas.
 </p>
 
 ###

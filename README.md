@@ -1,4 +1,4 @@
-<h1 align="left"> Vi Veri Veniversum Vivus Virci. </h1>
+<h1 align="left"> </h1>
 
 <p align="left">
 Sybersec Student.
